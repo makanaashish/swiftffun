@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		52A4B05621B8A40400B3CCF2 /* Swift Fin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift Fin.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		52A4B05621B8A40400B3CCF2 /* Swift Fun.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift Fun.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52A4B05921B8A40400B3CCF2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52A4B05B21B8A40400B3CCF2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		52A4B05E21B8A40400B3CCF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		52A4B05721B8A40400B3CCF2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				52A4B05621B8A40400B3CCF2 /* Swift Fin.app */,
+				52A4B05621B8A40400B3CCF2 /* Swift Fun.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		52A4B05521B8A40400B3CCF2 /* Swift Fin */ = {
+		52A4B05521B8A40400B3CCF2 /* Swift Fun */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 52A4B06821B8A40400B3CCF2 /* Build configuration list for PBXNativeTarget "Swift Fin" */;
+			buildConfigurationList = 52A4B06821B8A40400B3CCF2 /* Build configuration list for PBXNativeTarget "Swift Fun" */;
 			buildPhases = (
 				52A4B05221B8A40400B3CCF2 /* Sources */,
 				52A4B05321B8A40400B3CCF2 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "Swift Fin";
+			name = "Swift Fun";
 			productName = "Swift Fin";
-			productReference = 52A4B05621B8A40400B3CCF2 /* Swift Fin.app */;
+			productReference = 52A4B05621B8A40400B3CCF2 /* Swift Fun.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 52A4B05121B8A40400B3CCF2 /* Build configuration list for PBXProject "Swift Fin" */;
+			buildConfigurationList = 52A4B05121B8A40400B3CCF2 /* Build configuration list for PBXProject "Swift Fun" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				52A4B05521B8A40400B3CCF2 /* Swift Fin */,
+				52A4B05521B8A40400B3CCF2 /* Swift Fun */,
 			);
 		};
 /* End PBXProject section */
@@ -277,7 +277,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "Swift Fin/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bigals.Swift-Fin";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.bigals.Swift-Fun";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -291,7 +291,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "Swift Fin/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bigals.Swift-Fin";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.bigals.Swift-Fun";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -301,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		52A4B05121B8A40400B3CCF2 /* Build configuration list for PBXProject "Swift Fin" */ = {
+		52A4B05121B8A40400B3CCF2 /* Build configuration list for PBXProject "Swift Fun" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				52A4B06621B8A40400B3CCF2 /* Debug */,
@@ -310,7 +310,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		52A4B06821B8A40400B3CCF2 /* Build configuration list for PBXNativeTarget "Swift Fin" */ = {
+		52A4B06821B8A40400B3CCF2 /* Build configuration list for PBXNativeTarget "Swift Fun" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				52A4B06921B8A40400B3CCF2 /* Debug */,
